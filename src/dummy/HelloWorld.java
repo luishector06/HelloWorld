@@ -15,7 +15,7 @@ public class HelloWorld {
 	public void go(){
 		
 		String respuesta = JOptionPane.showInputDialog(null, "HelloWorld");
-		JOptionPane.showConfirmDialog(null, respuesta, "Gracias", JOptionPane.YES_NO_CANCEL_OPTION);
+		JOptionPane.showConfirmDialog(null, respuesta, "ssss", JOptionPane.YES_NO_CANCEL_OPTION);
 	   	
 	}
 	
